@@ -1,11 +1,34 @@
-# Task-8 
+# Task 8: Sales Dashboard – Data Analyst Internship
 
-Insights: 
+## Overview
+This task was about creating a simple, interactive **sales dashboard** to explore how sales perform across different **regions**, **product categories**, and over **time**. I used the popular **Superstore dataset** and built the dashboard using **Power BI**, with some help from **Python** for data cleaning.
 
-1. West Region has the highest sales over all with 2018 being the year with most sales. 
+## Dataset Used
+- **File**: `Superstore_sales.csv`
+  - I started with the original Superstore sales file and used Python (Pandas) to:
+  - Convert the `Order Date` into a `Month-Year` format
+  - Clean up the structure to make it ready for Power BI
 
-2. During 2016, Sales dipped in all regions other than East. 
+## Tools & Technologies
+- **Python** (Pandas) – for preprocessing the data
+- **Power BI** – for creating the interactive dashboard
 
-3. Technology is the most selling category, with phones being the most popular sub-category in sales. 
+## Dashboard Visuals
+Here’s what I included in the dashboard:
+1. **Line Chart** – Shows total sales over time (by Month-Year)
+2. **Bar Chart** – Compares sales across different regions
+3. **Donut Chart** – Visualizes sales by product category
+4. **Slicer/Filter** – Lets users filter the dashboard by region for better exploration
 
-4. Furniture as a category saw constant growth in sales over the year.
+I also used color formatting to highlight the top-performing regions and categories, making it easy to spot what’s doing well at a glance.
+
+## Deliverables
+- Power BI dashboard (PDF/screenshot exported)
+- key insights in a text file (included)
+- Cleaned dataset used for visuals
+- This README file
+
+## Notes
+This project helped me understand how to combine data cleaning with simple but effective visual storytelling. Power BI’s slicers and formatting features were especially useful for making the dashboard interactive and insightful.
+
+Thanks for checking it out! 
