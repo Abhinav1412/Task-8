@@ -23,7 +23,7 @@ Here’s what I included in the dashboard:
 I also used color formatting to highlight the top-performing regions and categories, making it easy to spot what’s doing well at a glance.
 
 ## Deliverables
-- Power BI dashboard (PDF/screenshot exported)
+- Power BI dashboard (with PDF exported)
 - key insights in a text file (included)
 - Cleaned dataset used for visuals
 - This README file
